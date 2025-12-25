@@ -1,9 +1,5 @@
 # Understanding Blocking vs Non-Blocking Code Execution
 
-## Introduction
-
-This lecture is critical for understanding how Node.js works internally. We will explore one of the most important concepts in Node.js: the difference between blocking (synchronous) and non-blocking (asynchronous) operations.
-
 ## The Blocking Operation Concept
 
 ### What is a Blocking Operation
